@@ -5,7 +5,7 @@
 package studentlist;
 
 /**
- *
+ *name: Ayushi
  * @author Ayushi
  */
 public class StudentList {
